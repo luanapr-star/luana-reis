@@ -2,7 +2,7 @@
   <agent
     id="teste"
     text="Hello World Ending"
-    color="white"
+    color="black"
     x="center"
     y="center"
     font-size="70"
